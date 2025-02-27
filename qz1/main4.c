@@ -5,4 +5,5 @@ int main(){
       printf("%d*%d=%d\t" ,i,j, i*++j);
       (j==9) ? (i++, j=0, printf("\n")) ：ｉ；
    ｝
-ｒｅｔｕｒｎ　０；
+return 0；
+｝
