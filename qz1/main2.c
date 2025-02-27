@@ -10,5 +10,5 @@ int main(){
         first=i%10;
     }
     printf("first %d +last %d =%d", first,last,first+last);
-    return0;
+    return 0;
     }
